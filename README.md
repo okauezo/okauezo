@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">👋 Olá, eu sou o <strong>Kaue Pires Moreira</strong></h1>
+<h1 align="center">👋 Olá, eu sou o <strong>Kauê Pires Moreira</strong></h1>
 <h3 align="center">🚀 Desenvolvedor Java (Iniciante) • Estudante de Engenharia de Software na FIAP</h3>
 
 <!-- Typing SVG -->
