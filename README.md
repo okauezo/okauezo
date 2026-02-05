@@ -1,110 +1,132 @@
-<!-- Banner / Header -->
-<h1 align="center">👋 Olá, eu sou o <strong>Kauê Pires Moreira</strong></h1>
-<h3 align="center">🚀 Desenvolvedor Java • Estudante de Engenharia de Software na FIAP</h3>
+<!-- ===========================
+  PROFILE README — okauezo
+  Kauê Pires Moreira
+=========================== -->
 
-<!-- Typing SVG -->
-<p align="center">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kauê%20Pires%20Moreira&fontAlign=50&fontAlignY=35&fontSize=50&color=0:0d1117,100:1f6feb&desc=Java%20Developer%20%E2%80%A2%20Engenharia%20de%20Software%20(FIAP)&descAlign=50&descAlignY=55" />
+
+<p>
   <a href="https://github.com/okauezo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+Java+em+formação;Apaixonado+por+tecnologia+e+aprendizado+contínuo;Back-end+%2B+APIs+%2B+Banco+de+Dados">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=780&lines=Bem-vindo+ao+meu+perfil!;Java+Back-end+%7C+APIs+REST+%7C+Banco+de+Dados;Spring+Boot+em+evolu%C3%A7%C3%A3o+todos+os+dias;Projetos+acad%C3%AAmicos+e+de+portf%C3%B3lio+em+Java;Aprendendo+na+pr%C3%A1tica+e+subindo+c%C3%B3digo+sempre" />
   </a>
 </p>
 
----
-
-## 🧰 Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p>
+  <a href="https://github.com/okauezo?tab=followers">
+    <img src="https://img.shields.io/github/followers/okauezo?style=for-the-badge&logo=github&label=Followers&color=1f6feb" />
+  </a>
+  <a href="https://github.com/okauezo?tab=stars">
+    <img src="https://img.shields.io/github/stars/okauezo?style=for-the-badge&logo=github&label=Stars&color=1f6feb" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=okauezo">
+    <img src="https://komarev.com/ghpvc/?username=okauezo&label=Profile%20views&style=for-the-badge&color=1f6feb" />
+  </a>
 </p>
 
----
-
-## 📂 Projetos em Destaque
-
-| 🚀 Projeto | 📜 Descrição | 🧠 Tecnologias |
-|------------|-------------|----------------|
-| 🏨 **Sistema de Reserva de Hotel** | CRUD completo com MVC | Java |
-| 📚 **Biblioteca Universitária** | Cadastro de livros e usuários com JPA + SQL | Java, JPA, Oracle |
-| 🌿 **Alerta de Incêndios** | Integração com API + Console Java | Java, API |
-| 🧠 **Projeto DASA** | IA aplicada à análise de exames | Java, SQL |
-| 🎓 **Projetos Alura** | Desafios de estudos | Java, Python, Web |
-
-> 💡 *Você pode explorar todos esses projetos nos meus repositórios públicos aqui no GitHub!*
+</div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🧰 Tech Stack (com logos bonitos)
 
 <div align="center">
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+### ☕ Back-end
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=C71A36" />
+<img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=white" />
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=okauezo&theme=tokyonight&hide_border=true" height="170"/>
+### 🗄️ Banco de Dados
+<img src="https://img.shields.io/badge/Oracle%20SQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+### 🌐 Front / Web
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+### 📊 Data / Ferramentas
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=white" />
 
 </div>
 
 ---
 
-## 🧠 Principais Linguagens
+## 📂 Projetos em Destaque (estilo “clean”)
+
+> Troque os links `#` pelos links reais dos seus repositórios depois.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+| 🚀 Projeto | 📜 Descrição | 🧠 Stack | 🔗 |
+|---|---|---|---|
+| 🏨 **Sistema de Reserva de Hotel** | CRUD completo com MVC | Java | [Repo](#) |
+| 📚 **Biblioteca Universitária** | Livros/usuários com JPA + SQL | Java • JPA • Oracle | [Repo](#) |
+| 🔥 **Alerta de Incêndios** | Integração com API + Console | Java • API | [Repo](#) |
+| 🧪 **Projeto DASA** | IA aplicada à análise de exames | Java • SQL | [Repo](#) |
+| 🎓 **Projetos Alura** | Desafios e exercícios | Java • Python • Web | [Repo](#) |
+
 </div>
 
 ---
 
-## 📈 Atividade Recente
+## 📊 GitHub (bonito e alinhado)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okauezo&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img height="175" src="https://streak-stats.demolab.com?user=okauezo&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Atividade (gráfico)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=okauezo&bg_color=0D1117&color=70A5FD&line=1f6feb&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante do 2º ano de **Engenharia de Software na FIAP**  
-- ☕ Focado em **desenvolvimento backend com Java**  
-- 🧠 Apaixonado por aprender novas tecnologias  
-- 🌱 Explorando APIs, banco de dados e arquitetura de sistemas  
+- 🎓 Estudante de **Engenharia de Software** na **FIAP**
+- ☕ Foco em **Back-end Java** (**APIs REST**, **Spring Boot**, **SQL**)
+- 🌱 Evoluindo com projetos reais (faculdade + portfólio)
 - 💼 Buscando meu **primeiro estágio em tecnologia**
 
 ---
 
 ## 📫 Conecte-se comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaue-pires/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/okauezo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:kauepiresmoreira09@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kaue-pires/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:kauepiresmoreira09@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
+</a>
+<a href="https://github.com/okauezo" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## ✨ Curiosidades
-- 🧭 Gosto de aprender na prática — código é meu melhor professor.  
-- 🔥 Sempre busco melhorar meus projetos e deixá-los mais completos.  
-- 🤝 Aberto a colaborações e oportunidades de aprendizado.
-
----
-
-<p align="center">
-  <i>“Grandes desenvolvedores também foram iniciantes — a diferença está na persistência.”</i>
-</p>
+<div align="center">
+  <i>“Grandes desenvolvedores também foram iniciantes — a diferença está na persistência.”</i> 💪
+</div>
