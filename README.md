@@ -29,7 +29,7 @@
 
 ---
 
-## 🧰 Tech Stack (com logos bonitos)
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -59,9 +59,8 @@
 
 ---
 
-## 📂 Projetos em Destaque (estilo “clean”)
+## 📂 Projetos em Destaque
 
-> Troque os links `#` pelos links reais dos seus repositórios depois.
 
 <div align="center">
 
@@ -77,7 +76,7 @@
 
 ---
 
-## 📊 GitHub (bonito e alinhado)
+## 📊 GitHub
 
 <div align="center">
 
