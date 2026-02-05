@@ -80,9 +80,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
 
 <img height="175" src="https://streak-stats.demolab.com?user=okauezo&theme=tokyonight&hide_border=true" />
