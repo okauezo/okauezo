@@ -44,15 +44,15 @@ class KauePires(Agent):
 > Pergunta e resposta sobre bulas de medicamentos com recuperação de contexto e citação de fontes.
 > `LangChain` `ChromaDB` `Claude`
 
-> **[Embeddings]((https://github.com/okauezo/Alura_AI/tree/main/embeddings))**
+> **[Embeddings](https://github.com/okauezo/Alura_AI/tree/main/embeddings)**
 > Busca semântica com Embeddings e chunks
 > `LangChain` `Qdrant` `Claude` `HuggingFace Embeddings`
 
-> **[REORBITA]([https://github.com/okauezo](https://github.com/okauezo/Reorbita))**
+> **[REORBITA](https://github.com/okauezo/Reorbita)**
 > Site de startup espacial com agente de IA integrado.
 > `Web` `API` `IA`
 
-> **[PROJETOS ALURA / JAVA ]([https://github.com/okauezo](https://github.com/okauezo/Alura.Orientacao.OBJ))**
+> **[PROJETOS ALURA / JAVA ](https://github.com/okauezo/Alura.Orientacao.OBJ)**
 > Fazendo projetos com orientação a objetos com Java.
 >  `Java`
 
