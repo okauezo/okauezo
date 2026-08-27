@@ -40,7 +40,7 @@ class KauePires(Agent):
 
 ## 🛰️ Projetos
 
-> **[Q&A de Bulas · RAG](https://github.com/okauezo](https://github.com/okauezo/Alura_AI/blob/main/PDF_CHAT_IA/bulas_pdf.py)**
+> **[Q&A de Bulas · RAG](https://github.com/okauezo/Alura_AI/blob/main/PDF_CHAT_IA/bulas_pdf.py)**
 > Pergunta e resposta sobre bulas de medicamentos com recuperação de contexto e citação de fontes.
 > `LangChain` `ChromaDB` `Claude`
 
