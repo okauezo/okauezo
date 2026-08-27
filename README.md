@@ -56,7 +56,8 @@ class KauePires(Agent):
 > Fazendo projetos com orientação a objetos com Java.
 >  `Java`
 
-<div align="right"><sub><a href="https://github.com/okauezo?tab=repositories">todos os repositórios →</a></sub></div>
+
+<div align="right"><sub><a href="https://github.com/okauezo?tab=repositories">TODOS OS REPOSITORIOS→</a></sub></div>
 
 ## 📊 Stats
 
