@@ -40,21 +40,21 @@ class KauePires(Agent):
 
 ## 🛰️ Projetos
 
-> **[Q&A de Bulas · RAG](https://github.com/okauezo)**
+> **[Q&A de Bulas · RAG]([https://github.com/okauezo](https://github.com/okauezo/Alura_AI/blob/main/PDF_CHAT_IA/bulas_pdf.py))**
 > Pergunta e resposta sobre bulas de medicamentos com recuperação de contexto e citação de fontes.
 > `LangChain` `ChromaDB` `Claude`
 
-> **[RAG de Campanhas](https://github.com/okauezo)**
-> Busca semântica sobre ~10.000 documentos de campanhas publicitárias.
+> **[Embeddings]([https://github.com/okauezo](https://github.com/okauezo/Alura_AI/tree/main/embeddings))**
+> Busca semântica com Embeddings e chunks
 > `LangChain` `Qdrant` `Claude` `HuggingFace Embeddings`
 
-> **[REORBITA](https://github.com/okauezo)**
+> **[REORBITA]([https://github.com/okauezo](https://github.com/okauezo/Reorbita))**
 > Site de startup espacial com agente de IA integrado.
 > `Web` `API` `IA`
 
-> **[BRASA 011](https://github.com/okauezo)**
-> Site de hamburgueria com chat agent conectado à API da Anthropic.
-> `Web` `Anthropic API`
+> **[PROJETOS ALURA / JAVA ]([https://github.com/okauezo](https://github.com/okauezo/Alura.Orientacao.OBJ))**
+> Fazendo projetos com orientação a objetos com Java.
+>  `Java`
 
 <div align="right"><sub><a href="https://github.com/okauezo?tab=repositories">todos os repositórios →</a></sub></div>
 
