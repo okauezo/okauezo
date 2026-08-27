@@ -63,8 +63,8 @@ class KauePires(Agent):
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&hide_border=true&bg_color=0d1117&icon_color=A78BFA&title_color=A78BFA&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=86400" />
 
 </div>
 
