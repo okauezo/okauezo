@@ -45,19 +45,18 @@ class KauePires(Agent):
 > `LangChain` `ChromaDB` `Claude`
 
 > **[Embeddings](https://github.com/okauezo/Alura_AI/tree/main/embeddings)**
-> Busca semântica com Embeddings e chunks
+> Busca semântica com embeddings e chunks.
 > `LangChain` `Qdrant` `Claude` `HuggingFace Embeddings`
 
 > **[REORBITA](https://github.com/okauezo/Reorbita)**
 > Site de startup espacial com agente de IA integrado.
 > `Web` `API` `IA`
 
-> **[PROJETOS ALURA / JAVA ](https://github.com/okauezo/Alura.Orientacao.OBJ)**
-> Fazendo projetos com orientação a objetos com Java.
->  `Java`
+> **[Projetos Alura · Java](https://github.com/okauezo/Alura.Orientacao.OBJ)**
+> Estudos de orientação a objetos com Java.
+> `Java`
 
-
-<div align="right"><sub><a href="https://github.com/okauezo?tab=repositories">TODOS OS REPOSITORIOS→</a></sub></div>
+<div align="right"><sub><a href="https://github.com/okauezo?tab=repositories">todos os repositórios →</a></sub></div>
 
 ## 📊 Stats
 
@@ -65,6 +64,14 @@ class KauePires(Agent):
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=okauezo&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okauezo&layout=compact&hide_border=true&theme=tokyonight&langs_count=6&cache_seconds=86400" />
+
+</div>
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/okauezo/okauezo/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -85,39 +92,3 @@ class KauePires(Agent):
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:4c1d95,100:7c3aed" />
 
 </div>
-
-name: Gerar cobra de contribuições
-
-# Quando o robô roda:
-on:
-  schedule:
-    - cron: "0 0 * * *"   # todo dia à meia-noite (UTC)
-  workflow_dispatch:        # permite rodar na mão pelo botão "Run workflow"
-  push:
-    branches:
-      - main
-
-jobs:
-  gerar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write       # dá permissão pro robô salvar a imagem no repositório
-
-    steps:
-      # Passo 1: gera os arquivos da cobra (versão clara e escura)
-      - name: Gerar SVG da cobra
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=A855F7&color_dots=161b22,4c1d95,7c3aed,a78bfa,c4b5fd
-
-      # Passo 2: salva os arquivos gerados na branch "output"
-      - name: Publicar na branch output
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
