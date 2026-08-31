@@ -8,25 +8,26 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
-  gerar:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Gerar SVG da cobra
-        uses: Platane/snk@v3
+      - name: Gerar SVGs da cobra
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: okauezo
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=A855F7&color_dots=0d1117,4c1d95,7c3aed,a78bfa,c4b5fd
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publicar na branch output
+      - name: Publicar SVGs na branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
